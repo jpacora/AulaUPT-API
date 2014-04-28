@@ -1,0 +1,33 @@
+{
+  "name": "AulaUPT-API",
+  "version": "0.1.0",
+  "description": "Sencilla API para interactuar con el Aula Virtual de la Universidad Privada de Tacna",
+  "author": {
+    "name": "Jorge Pacora",
+    "email": "jpacorasilva@icloud.com",
+    "url": "http://jpacora.com"
+  },
+  "keywords": [
+    "upt",
+    "tacna",
+    "jpacora",
+    "ikeyman"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MatthewMueller/cheerio.git"
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "dependencies": {
+    "cheerio": "~3.7.0",
+    "request": "~1.0.0",
+  },
+   "readmeFilename": "Readme.md",
+  "bugs": {
+    "url": "https://github.com/MatthewMueller/cheerio/issues"
+  },
+  "homepage": "https://github.com/MatthewMueller/cheerio"
+}
