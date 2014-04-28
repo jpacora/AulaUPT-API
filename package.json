@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/MatthewMueller/cheerio.git"
+    "url": "git://github.com/jpacora/AulaUPT-API.git"
   },
   "main": "./index.js",
   "engines": {
@@ -27,7 +27,7 @@
   },
    "readmeFilename": "Readme.md",
   "bugs": {
-    "url": "https://github.com/MatthewMueller/cheerio/issues"
+    "url": "https://github.com/jpacora/AulaUPT-API/issues"
   },
-  "homepage": "https://github.com/MatthewMueller/cheerio"
+  "homepage": "https://github.com/jpacora/AulaUPT-API/cheerio"
 }
