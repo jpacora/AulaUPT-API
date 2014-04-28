@@ -1,6 +1,6 @@
-# AulaUPT-API -- Sencilla API para interactuar con el Aula Virtual de la Universidad Privada de Tacna
+# AulaUPT-API -- Esay to use API
 
-[![NPM](https://nodei.co/npm/request.png)](https://nodei.co/npm/aulaupt-api/)
+[![NPM](https://nodei.co/npm/aulaupt-api.png)](https://nodei.co/npm/aulaupt-api/)
 
 ##Uso
 
