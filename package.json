@@ -26,6 +26,7 @@
     "jpacora",
     "ikeyman"
   ],
+  "readmeFilename": "README.md",
   "author": "Jorge Pacora <jpacorasilva@icloud.com> (http://jpacora.com/)",
   "license": "GNU",
   "bugs": {

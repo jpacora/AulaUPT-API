@@ -8,7 +8,7 @@
 var AulaUPT = require('aulaupt-api');
 
 var aula = new AulaUPT({
-	usuario: '2013000725',
+	usuario: '2013000257',
 	password: '467593649',
 })
 
