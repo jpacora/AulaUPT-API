@@ -28,7 +28,7 @@
   ],
   "readmeFilename": "README.md",
   "author": "Jorge Pacora <jpacorasilva@icloud.com> (http://jpacora.com/)",
-  "license": "GNU",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/jpacora/AulaUPT-API/issues"
   },
